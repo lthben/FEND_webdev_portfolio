@@ -1,0 +1,49 @@
+/* {
+	border: 1px solid red !important;
+}*/
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+	font-family: "Ubuntu", sans-serif;
+	font-weight: 100;
+}
+
+.adjust-article-leading {
+	padding-bottom: 1em;
+}
+
+.main {
+	padding: 2em 0;
+}
+
+.footer {
+	padding: 1em 0 0 0;
+}
+
+
+<!--catch-all to prevent overflowing-->
+img,
+embed,
+object,
+video {
+	max-width:100%;
+}
+
+@media screen and (min-width: 768px) {
+
+	.row {
+    	position: relative;
+  	}
+
+  	.bottom-align-text {
+    	position: absolute;
+    	bottom: 0;
+ 	}
+ }
+
+
