@@ -1,3 +1,3 @@
 #Description
 
-A portfolio website for Loh Jian Hui as part of the Udacity Front End Developer course. 
+A sample web development portfolio created as part of Udacity's Front-End Web Developer course.
